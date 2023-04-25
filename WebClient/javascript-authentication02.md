@@ -2,6 +2,7 @@
 ```bash
 Author: _wiky
 Date: 2023/04/25
+Difficult: Very Easy
 ```
 ## 1. Statement
 ![javascript-authentication02-01](../images/javascript-authentication02-01.png)

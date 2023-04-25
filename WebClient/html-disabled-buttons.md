@@ -2,6 +2,7 @@
 ```bash
 Author: _wiky
 Date: 2023/04/25
+Difficult: Very Easy
 ```
 ## 1. Statement
 This form is disabled and can not be used. It’s up to you to find a way to use it.
