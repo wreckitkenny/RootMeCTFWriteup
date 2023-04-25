@@ -17,5 +17,5 @@ After trying deleting **disabled** attribute from the form input and button, I c
 
 ![html-disabled-buttons-03](../images/html-disabled-buttons-03.png)
 
-## Capture the flag
+## 3. Capture the flag
 The flag is **HTMLCantStopYou**
